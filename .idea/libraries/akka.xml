@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="akka">
+    <CLASSES>
+      <root url="file://E:/akka_2.11-2.4.0/akka-2.4.0/lib/akka" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/akka_2.11-2.4.0/akka-2.4.0/lib/akka" />
+      <root url="jar://E:/akka_2.11-2.4.0/akka-2.4.0/src/akka/akka-actor_2.11-2.4.0-sources.jar!/" />
+      <root url="jar://E:/akka_2.11-2.4.0/akka-2.4.0/src/akka/akka-actor_2.11-2.4.0-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://E:/akka_2.11-2.4.0/akka-2.4.0/lib/akka" recursive="false" />
+    <jarDirectory url="file://E:/akka_2.11-2.4.0/akka-2.4.0/lib/akka" recursive="false" type="SOURCES" />
+  </library>
+</component>
